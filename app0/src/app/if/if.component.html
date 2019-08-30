@@ -1,0 +1,11 @@
+<p>if works!</p>
+<ul [ngSwitch]="person">
+    <li *ngSwitchCase="Mohan">Hello Mohan</li>
+    <li *ngSwitchCase="Sohan">Hello Mohan</li>
+    <li *ngSwitchCase="Vijay">Hello Mohan</li>
+    <li *ngSwitchDefault>Name not in list
+        <button (click)='AddToList'>Add to List</button>
+    </li>
+
+</ul>
+

@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "loginId": "NewUser002",
+      "password": "new002@12",
+    },
+    {
+      "loginId": "NewUser003",
+      "password": "new002@13",
+    },
+    {
+      "loginId": "NewUser004",
+      "password": "new002@14",
+    },
+    {
+      "loginId": "NewUser005",
+      "password": "new002@15",
+    },
+    {
+     "loginId": "NewUser006",
+      "password": "new002@16",
+    },
+    {
+      "loginId": "NewUser007",
+      "password": "new002@17",
+    },
+    {
+      "loginId": "NewUser008",
+      "password": "new002@18",
+    },
+    {
+      "loginId": "NewUser009",
+      "password": "new002@19",
+    },
+    {
+      "loginId": "NewUser010",
+      "password": "new002@10",
+    }
+  ]
+}

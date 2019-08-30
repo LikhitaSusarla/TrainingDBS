@@ -1,0 +1,160 @@
+{
+  "customers": [
+    {
+      "name": "NewCustomer002",
+      "email": "new002@gmail.com",
+      "tel": "0022552",
+      "id": 2
+    },
+    {
+      "name": "NewCustomer003",
+      "email": "new003@gmail.com",
+      "tel": "0022553",
+      "id": 3
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 4
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 5
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 6
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 7
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 8
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 9
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 10
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 11
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 12
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 13
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 14
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 15
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 16
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 17
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 18
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 19
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 20
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 21
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 22
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 23
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 24
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 25
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 26
+    },
+    {
+      "name": "Customer004",
+      "email": "Likki@getMaxListeners.com",
+      "tel": "9898008090",
+      "id": 27
+    }
+  ]
+}
